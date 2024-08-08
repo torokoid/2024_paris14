@@ -200,6 +200,11 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240805_077.JPG" data-lightbox="abc"><img src="20240805_077.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_078.JPG" data-lightbox="abc"><img src="20240805_078.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_079.JPG" data-lightbox="abc"><img src="20240805_079.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3pyRFZyPIs?si=5hJGUkN4zmXFKIwl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OrNuXCp8QC0?si=YuDKTOhPlAquYfEe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a href="20240805_080.JPG" data-lightbox="abc"><img src="20240805_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_081.JPG" data-lightbox="abc"><img src="20240805_081.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_082.JPG" data-lightbox="abc"><img src="20240805_082.JPG" alt="サンプル画像" width="900" /></a>
@@ -231,10 +236,16 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240805_108.JPG" data-lightbox="abc"><img src="20240805_108.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_109.JPG" data-lightbox="abc"><img src="20240805_109.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_110.JPG" data-lightbox="abc"><img src="20240805_110.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fxMEcuVLh8?si=Mo56oqnEp9RNKPxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a href="20240805_111.JPG" data-lightbox="abc"><img src="20240805_111.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_112.JPG" data-lightbox="abc"><img src="20240805_112.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_113.JPG" data-lightbox="abc"><img src="20240805_113.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_114.JPG" data-lightbox="abc"><img src="20240805_114.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOUXR5mKHxk?si=fy9LKFCQc29-cWxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a href="20240805_115.JPG" data-lightbox="abc"><img src="20240805_115.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_116.JPG" data-lightbox="abc"><img src="20240805_116.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240805_117.JPG" data-lightbox="abc"><img src="20240805_117.JPG" alt="サンプル画像" width="900" /></a>
